@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test Counter</string>
+    <string name="count">Shared count</string>
+    <string name="count_static">Static count</string>
+</resources>
